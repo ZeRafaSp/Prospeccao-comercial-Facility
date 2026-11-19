@@ -39,6 +39,7 @@ O projeto conta com três páginas principais:
 - Presença digital.
 - Comparação entre segmentos.
 - Cobertura de contato por nicho.
+  ![Visão geral](screenshots/visao_geral.png)
 
 ### 2. Mapa
 - Distribuição geográfica das empresas.
