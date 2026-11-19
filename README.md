@@ -39,6 +39,7 @@ O projeto conta com três páginas principais:
 - Presença digital.
 - Comparação entre segmentos.
 - Cobertura de contato por nicho.
+  
   ![Visão geral](screenshots/visao_geral.png)
 
 ### 2. Mapa
@@ -48,8 +49,12 @@ O projeto conta com três páginas principais:
 - Pesquisa por nome.
 - Acesso aos contatos e canais digitais disponíveis.
 
+  ![Mapa](screenshots/mapa.png)
+
 ### 3. Prioridades
-Página destinada à exploração das informações e indicadores de apoio à equipe comercial, conforme os critérios definidos para o projeto.
+Página destinada à exploração das informações e indicadores de apoio à equipe comercial, conforme os critérios definidos para o projeto. Com maior detalhamento de informações de cada empresa.
+
+![Prioridades](screenshots/prioridades.png)
 
 ## Resultados
 
