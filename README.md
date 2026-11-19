@@ -69,12 +69,10 @@ Página destinada à exploração das informações e indicadores de apoio à eq
 
 **José Rafael Santos Pereira**
 
-Analista de Dados | Business Intelligence | Data monitoring | Python | SQL | PostgreSQL
+Analista de Dados | Business Intelligence | Power BI | Docker | Excel | IA | Google maps scraper kit
 
-Projeto desenvolvido como parte do portfólio de estudos em Dados, Automação e Qualidade de Dados.
 
 LinkedIn: https://www.linkedin.com/in/rafaelsantospereirarsp/
 
 GitHub: https://github.com/ZeRafaSp/
 
-Este repositório apresenta a metodologia e os recursos técnicos utilizados no projeto. Informações comerciais e dados identificáveis da empresa foram omitidos ou anonimizados por questões de confidencialidade.
